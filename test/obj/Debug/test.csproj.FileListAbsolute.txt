@@ -1,0 +1,7 @@
+c:\users\ssd\documents\visual studio 2010\Projects\test\test\bin\test.dll
+c:\users\ssd\documents\visual studio 2010\Projects\test\test\bin\test.pdb
+c:\users\ssd\documents\visual studio 2010\Projects\test\test\bin\EntityFramework.dll
+c:\users\ssd\documents\visual studio 2010\Projects\test\test\bin\EntityFramework.xml
+c:\users\ssd\documents\visual studio 2010\Projects\test\test\obj\Debug\test.dll
+c:\users\ssd\documents\visual studio 2010\Projects\test\test\obj\Debug\test.pdb
+C:\Users\SSD\documents\visual studio 2010\Projects\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
