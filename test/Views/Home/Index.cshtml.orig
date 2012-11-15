@@ -1,0 +1,10 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+<h2>test</h2>
+<<<<<<< HEAD
+<a>change my database</a>
+=======
+<img src="/Content/images/IMG_0546.JPG" alt="lottery" />
+>>>>>>> add-an-image
